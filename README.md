@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello VFXGamer here :v:
+![Twitter Follow](https://img.shields.io/twitter/follow/VFXGamer_1?color=cyan&style=for-the-badge)
+
 
 <!--
 **VFXGamer/VFXGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
